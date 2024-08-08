@@ -2,6 +2,11 @@
 
 Soy estudiante avanzado en la Tecnicatura de Programación en la Universidad Tecnológica Nacional de Rosario, enfocado en el Análisis de datos.
 
+## Contacto:
+
+![Static Badge](https://img.shields.io/badge/Federico%20Irungaray-%230A66C2?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffedericomartinirungaray%2F)
+![Static Badge](https://img.shields.io/badge/federicoirungaray9%40gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white)
+
 ## Habilidades:
 
 ![Static Badge](https://img.shields.io/badge/Limpieza%20de%20datos-%2348ACF8?style=flat)
@@ -10,7 +15,7 @@ Soy estudiante avanzado en la Tecnicatura de Programación en la Universidad Tec
 ![Static Badge](https://img.shields.io/badge/Dashboards-%2348ACF8?style=flat)
 ![Static Badge](https://img.shields.io/badge/Web%20scraping-%23FF7272?style=flat)
 
-## Herramientas
+## Herramientas:
 
 ### Analisis de datos:
 
